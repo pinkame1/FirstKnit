@@ -11,13 +11,13 @@ date: "`r Sys.Date()`"
 
 # A Little Survey
 
-Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
+Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct punctuation. 
 
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-I attended Pete knight high school and I did graduate. I dislike English and I love math. I had a easier understanding on math than english especially because i am not a native Engligh speaker. I like the way math has one answer to a question.
+I attended Pete knight high school and I did graduate. I dislike English and I love math. I had a easier understanding on math than english especially because i am not a native English speaker. I like the way math has one answer to a question.
 
      
 
@@ -66,7 +66,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-I have never took a college math course yet and this is my first class. Yes, I do knwo that Math 115 does not qualify for a transferable class to UCs. I would love to get an A in stats but if not I can lvie with a C. I am planning to become a forensic scientist.
+I have never took a college math course yet and this is my first class. Yes, I do know that Math 115 does not qualify for a transferable class to UCs. I would love to get an A in stats but if not I can live with a C. I am planning to become a forensic scientist.
    
  
 
